@@ -55,3 +55,8 @@ The tests check normal cases and edge cases, including empty arrays, invalid inp
 ## AI usage
 
 AI tools were used to help understand JavaScript concepts, write parts of the code, and create unit tests. The final code was reviewed and tested by the student.
+
+
+
+<img width="783" height="701" alt="image" src="https://github.com/user-attachments/assets/d81a87f4-0c40-4d39-ab44-565e0cdcc6be" />
+
